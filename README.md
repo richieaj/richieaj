@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jolinson Richi</h1>
-<h3 align="center">Passionate data scientist and lifelong learner | avid open source enthusiast with a tech-savvy mindset.</h3>
-<img align="right" alt="Coding" width="400" src="[https://scx2.b-cdn.net/gfx/news/2017/forgettingin.gif](https://uploads-ssl.webflow.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif)">
+<h3 align="center">Data scientist leveraging machine learning and analytics to drive actionable insights and solve complex problems.</h3>
+<img align="right" alt="Coding" width="400" src="https://aigents-co.imgix.net/production/1623788499491_code.png">
 - 🌱 I’m currently learning **Generative AI**
 
 - 💬 Ask me about **Machine Learning, Neural Networks and Stats**
