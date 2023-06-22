@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Jolinson Richi. A<br>Aspiring data scientist, leverage machine learning and analytics to drive actionable insights and solve complex problems..<br>🌱 I’m currently learning **Generative AI**<br>💬 Ask me about Machine Learning, Neural Networks and Stats<br><br>📫 How to reach me jolinsonrichi27@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/19nbOkz0g1coas3ZMVaXGCb4hE-2CJqoa/view?usp=sharing<br><br>⚡ Fun fact I'm good in cracking lame jokes<br>
+Hi 👋, I'm Jolinson Richi. A<br>Aspiring data scientist, leverage machine learning and analytics to drive actionable insights and solve complex problems..<br>🌱 I’m currently learning **Generative AI**<br>💬 Ask me about Machine Learning, Neural Networks and Stats<br><br>📫 How to reach me jolinsonrichi27@gmail.com<br><br>📄 Know about my experiences[ https://drive.google.com/file/d/19nbOkz0g1coas3ZMVaXGCb4hE-2CJqoa/view?usp=sharing](https://drive.google.com/file/d/1N8MFbHPFw8LJuFEVW0JIFLpTxymPAXyE/view?usp=sharing)<br><br>⚡ Fun fact I'm good in cracking lame jokes<br>
 
 
 ## 🌐 Socials:
